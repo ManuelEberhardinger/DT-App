@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Parking Pis</string>
+    <string name="startButton_name">Start</string>
+    <string name="searchButton_name">Search</string>
+</resources>
